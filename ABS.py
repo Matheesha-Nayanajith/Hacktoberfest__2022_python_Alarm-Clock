@@ -11,8 +11,8 @@ print(absolute_number)
 
 
 # random integer
-integer = -20
-print('Absolute value of -20 is:', abs(integer))
+integer = -10
+print('Absolute value of -10 is:', abs(integer))
 
 #random floating number
 floating = -30.33
